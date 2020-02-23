@@ -9,5 +9,5 @@ You just need to copy the playlist link from spotify (using the share button ins
 You can read more of the motivation for developing this tool here: https://www.reddit.com/r/DeezloadersIsBack/comments/9x63bd/transferring_spotify_playlists_to_deezer_to/
 
 ## Acknowledgments
-Thanks to Sindre Sorhus for his library Clipboardy: https://github.com/sindresorhus/clipboardy
-Thanks to the team behind Spotizr: http://spotizr.com/
+- Thanks to Sindre Sorhus for his library Clipboardy: https://github.com/sindresorhus/clipboardy
+- Thanks to the team behind Spotizr: http://spotizr.com/
