@@ -1,0 +1,23 @@
+{
+  "bin": {
+    "": "s2d.js"
+  },
+  "pkg": {
+    "scripts": "s2d.js",
+    "assets": "/bin/**/*"
+  },
+  "name": "s2d",
+  "version": "1.0.0",
+  "main": "s2d.js",
+  "dependencies": {
+    "clipboardy": "^1.2.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
